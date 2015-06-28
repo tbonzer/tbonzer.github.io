@@ -5,26 +5,17 @@ color: white
 fa-icon: check-square-o
 ---
 
-#### Basically
+### Recommendations reduce uncertainty but don't predict the future.
 
-# this theme rocks.
+A recommendation from Tbonzer is an analytical tool that helps you find the
+best of something. We can make recommendations on a one-time or annual basis.
+Our recommendations are made using statistical software such as [R](http://cran.r-project.org/), statistical libraries like [Pandas](http://pandas.pydata.org/)
+or databases like [MySQL](https://www.mysql.com/), [Postgresql](http://www.postgresql.org/), or [MongoDB](https://www.mongodb.org/). If you have a specific
+tool you would like used, then we will strongly consider it.
 
-Got some *killer app*, some *neat project*, a cool portfolio? Make an easy single-page site to show it all off. SinglePaged uses jekyll niceties to make a ***polished, modular, and beautiful* single page site**.
+### What are some use cases?
 
-Oh-- go see [some examples](https://github.com/t413/SinglePaged#fancy-jekyll-powered-single-page-site)!
-
-- Each vertical section is a markdown file in **_posts/** directory.
-  * They're sorted by 'date'. (we don't use date anywhere, it only sorts)
-- Each vertical section sets it's own **color**, **header icon** (or image), **title**, and easy-to-write markdown body.
-- Only **two things** to edit:
-  1. Edit `_config.yml` to set the site title, description, etc
-  2. Add `_posts/*.md` to make each vertical section. Copy some examples and add the sections from your README.md for a fast start!
-- Easy adding of **SEO terms**, **favicon** & such, and **google analytics token**.
-
-Sound good? Let's go!
-
-There are three way to get started: (links jump to that section)
-
-1. Make a [**user homepage**](#setup-as-user-homepage) (or organization)
-2. Make a [**standalone project**](#setup-as-standalone-project-page) page
-3. Make a [site under an **existing project**](#setup-inside-existing-project)
+* Find the best music playlist for your organization based on your criteria
+* Recommend the best restaurants in the area based on your needs
+* Show you the best car dealerships based on reviews from multiple sources
+* Generate a list of job candidates from [LinkedIn](https://www.linkedin.com/)
